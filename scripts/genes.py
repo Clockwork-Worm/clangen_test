@@ -1,5 +1,6 @@
 from random import choice, randint
 
+white_patches = None 
 class Genes(object): 
   name = "Genes"
   
