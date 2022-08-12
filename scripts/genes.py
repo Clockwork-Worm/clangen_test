@@ -1,7 +1,6 @@
 from random import choice, randint
 
-white_patches = None 
-class Genes(object): 
+ class Genes(object): 
   name = "Genes"
   
   GenderGene = ['OO', 'OB', 'Ob', 'BB', 'Bb', 'bb', 'OY', 'BY', 'bY']
